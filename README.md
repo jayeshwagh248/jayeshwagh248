@@ -2,12 +2,12 @@
 
 
 
-🔭 **I’m currently working on open Devops Projects using tools like Docker/Podman, Jenkins, AWS, Ansible, Linux, Prometheus & Grafana.** 
-🌱 **I’m currently learning container orchastration tools like Kubernetes and IAC tool Terraform.**
-👯 **I will love to work on any Devops/ Cloud related projects.**
-💬 **Ask me about devops and cloud.**
-📫 **How to reach me : jayeshwagh248@gmail.com**
-⚡ **My Skills and tools :** 
+- 🔭 **I’m currently working on open Devops Projects using tools like Docker/Podman, Jenkins, AWS, Ansible, Linux, Prometheus & Grafana.** 
+- 🌱 **I’m currently learning container orchastration tools like Kubernetes and IAC tool Terraform.**
+- 👯 **I will love to work on any Devops/ Cloud related projects.**
+- 💬 **Ask me about devops and cloud.**
+- 📫 **How to reach me : jayeshwagh248@gmail.com**
+- ⚡ **My Skills and tools :** 
 
       1. AWS 
       2. RHEL Linux
