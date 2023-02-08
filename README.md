@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, i am Jayesh (Devops Engineer) 👋
 
-<!--
-**jayeshwagh248/jayeshwagh248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **I’m currently working on open Devops Projects using tools like Docker/Podman, Jenkins, AWS, Ansible, Linux, Prometheus & Grafana.** 
+- 🌱 **I’m currently learning container orchastration tools like Kubernetes and IAC tool Terraform.**
+- 👯 **I will love to work on any Devops/ Cloud related projects.**
+- 💬 **Ask me about devops and cloud.**
+- 📫 **How to reach me : jayeshwagh248@gmail.com**
+- ⚡ **My Skills and tools : 
+      1. AWS 
+      2. RHEL Linux
+      3. Ansible
+      4. Docker/Podman
+      5. Jenkins
+      6. VMware Virtulization
+      7. Backup & storage ( Rubrik & NAS, SAN, Pure Storage)
+      8. Shell Scripting
+      9. Prometheus & Grafana**
